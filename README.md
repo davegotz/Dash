@@ -15,8 +15,3 @@ I'm happy when people download and use this docset.  However, I cannot fix probl
 Easy to use scripts are provided by Dash for many platforms: https://kapeli.com/docsets
 
 You'll need a Javadoc (or similar for other languages) folder to get started.  Is the only documentation you have online?  Then you can scrape it to a local folder before buildling the docset.  Here are the instructions I followed to use wget to scrape Apache Spark's javadoc: http://stackoverflow.com/questions/6597562/rip-javadocs-from-a-doc-site-to-a-local-zip-file
-
-
-Want to create your own from online Javadoc files?  You can scape Javadocs from the web as shown on this page:
-
-Then you can 
